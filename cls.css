@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(191, 250, 250);
+    border-style: solid;
+    border-color: #e2f1e3a4;
+  }
+  
+div {
+        background-color: rgb(162, 240, 214);
+        width: 300px;
+    
+        padding: 50px;
+        margin: 40px solid
+    }
+    h1,h5 {text-align: center;}
+
+.container
+{
+    max-width: 700;
+    width: 100;
+    background-color: rgb(185, 182, 182);
+    
+}
+

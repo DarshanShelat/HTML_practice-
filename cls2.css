@@ -1,0 +1,27 @@
+.containerx
+{   
+    border-radius: 25px;
+    background-color: white;
+    margin: 150px 100px 100px 100px;
+    padding: 105px 75px 75px 75px;
+    
+}
+.button {
+    background-color: #1860b3; 
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+.button {border-radius:50px 50px 50px 50px;}
+
+body{
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
